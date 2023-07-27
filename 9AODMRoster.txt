@@ -38,5 +38,4 @@ Admin=76561198024759550:Reserve // 9A - TheSaltyPenguin
 Admin=76561198086971830:Reserve // 9A - Uranium
 Admin=76561197988264980:Reserve // 9A - Wobble
 Admin=76561198082147521:Reserve // 9A - Zarahar
-Admin=76561198324998105:Reserve // 9A - Zeemer
 Admin=76561198010573701:Reserve // 9A - Zekillez
