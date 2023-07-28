@@ -39,3 +39,4 @@ Admin=76561198041966258:Reserve // 9A - Tiberius
 Admin=76561197988264980:Reserve // 9A - Wobble
 Admin=76561198020520138:Reserve // 9A - Yopo
 Admin=76561198082147521:Reserve // 9A - Zarahar
+Admin=76561198069111950:Reserve // 9A - Merrick
