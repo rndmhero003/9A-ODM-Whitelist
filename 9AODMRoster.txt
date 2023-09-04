@@ -40,3 +40,6 @@ Admin=76561197988264980:Reserve // 9A - Wobble
 Admin=76561198020520138:Reserve // 9A - Yopo
 Admin=76561198082147521:Reserve // 9A - Zarahar
 Admin=76561198069111950:Reserve // 9A - Merrick
+Admin=76561198086971830:Reserve // 9A - Uranium
+Admin=76561198010573701:Reserve // 9A - Zekillez
+Admin=76561198091800776:Reserve // 9A - Road-Block
