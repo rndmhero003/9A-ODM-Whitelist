@@ -44,3 +44,4 @@ Admin=76561198086971830:Reserve // 9A - Uranium
 Admin=76561198010573701:Reserve // 9A - Zekillez
 Admin=76561198091800776:Reserve // 9A - Road-Block
 Admin=76561198981829163:Reserve // 9A - Unconventional
+Admin=76561198010199865:Reserve // 9A - Jarek
